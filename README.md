@@ -1,5 +1,5 @@
 # all-the-things
 
-label:todo assignee:bhardt8
+is:open label:todo assignee:bhardt8
 
-label:todo assignee:mkosmala
+is:open label:todo assignee:mkosmala
